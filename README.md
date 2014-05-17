@@ -14,7 +14,7 @@ Adding dependency to pubspec.yaml
 
 ```
   dependencies:
-    google_spectrum_v1explorer_api: '>=0.4.0'
+    google_spectrum_v1explorer_api: '>=0.4.1'
 ```
 
 For web applications:
