@@ -7,6 +7,7 @@ import 'package:google_spectrum_v1explorer_api/src/console_client.dart';
 import "package:google_spectrum_v1explorer_api/spectrum_v1explorer_api_client.dart";
 
 /** API for spectrum-management functions. */
+@deprecated
 class Spectrum extends Client with ConsoleClient {
 
   final oauth2.OAuth2Console auth;
